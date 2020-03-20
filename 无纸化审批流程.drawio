@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-20T10:29:04.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="XtmEh5pCqXgzaKCrYOfy" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-20T10:38:31.070Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="I0p-2oFFQ8GQTpYTo06I" version="12.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2729" dy="2174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1733" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -341,7 +341,7 @@
         <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-187" value="方案咨询案卷编号" style="shape=card;whiteSpace=wrap;html=1;align=center;size=22;" parent="WTOQ7RgYzSvXcb4ZEk5k-186" vertex="1">
           <mxGeometry y="40" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-189" value="方案审查案卷编号（历史）" style="shape=card;whiteSpace=wrap;html=1;align=center;size=22;" parent="WTOQ7RgYzSvXcb4ZEk5k-186" vertex="1">
+        <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-189" value="变更前方案审查案卷编号（上一次）" style="shape=card;whiteSpace=wrap;html=1;align=center;size=22;" parent="WTOQ7RgYzSvXcb4ZEk5k-186" vertex="1">
           <mxGeometry y="80" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-190" value="方案审查案卷编号" style="shape=card;whiteSpace=wrap;html=1;align=center;size=22;" parent="WTOQ7RgYzSvXcb4ZEk5k-186" vertex="1">
@@ -486,17 +486,6 @@
         <mxCell id="Fh-ANMCCMXkpX_T69aen-23" value="注入电子印章" style="rounded=0;whiteSpace=wrap;html=1;" parent="Fh-ANMCCMXkpX_T69aen-19" vertex="1">
           <mxGeometry y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-181" value="案卷办理人员信息" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;html=0;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="600" y="-200" width="240" height="120" as="geometry">
-            <mxRectangle x="840" y="-280" width="240" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-182" value="政策性审查经办人" style="shape=card;whiteSpace=wrap;html=1;align=center;size=22;" parent="WTOQ7RgYzSvXcb4ZEk5k-181" vertex="1">
-          <mxGeometry y="40" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-183" value="技术审查单位" style="shape=card;whiteSpace=wrap;html=1;align=center;size=22;" parent="WTOQ7RgYzSvXcb4ZEk5k-181" vertex="1">
-          <mxGeometry y="80" width="240" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-171" value="案卷申报基础信息" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;html=0;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="600" y="-320" width="240" height="80" as="geometry">
             <mxRectangle x="840" y="-600" width="240" height="40" as="alternateBounds" />
@@ -565,6 +554,17 @@
         </mxCell>
         <mxCell id="-14bhKZUEnO-pX9bmOSU-19" value="选择输出文件夹" style="rounded=0;whiteSpace=wrap;html=1;" parent="-14bhKZUEnO-pX9bmOSU-16" vertex="1">
           <mxGeometry y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-181" value="案卷办理人员信息" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;html=0;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="600" y="-200" width="240" height="120" as="geometry">
+            <mxRectangle x="840" y="-280" width="240" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-182" value="政策性审查经办人" style="shape=card;whiteSpace=wrap;html=1;align=center;size=22;" parent="WTOQ7RgYzSvXcb4ZEk5k-181" vertex="1">
+          <mxGeometry y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-183" value="技术审查单位" style="shape=card;whiteSpace=wrap;html=1;align=center;size=22;" parent="WTOQ7RgYzSvXcb4ZEk5k-181" vertex="1">
+          <mxGeometry y="80" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9Dw7c0gLZ24XJoEXtp0-246" value="开始" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="740" y="2530" width="120" height="50" as="geometry" />
@@ -750,7 +750,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WTOQ7RgYzSvXcb4ZEk5k-75" target="WTOQ7RgYzSvXcb4ZEk5k-181" edge="1">
+        <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WTOQ7RgYzSvXcb4ZEk5k-75" target="WTOQ7RgYzSvXcb4ZEk5k-181" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="-60" />
@@ -1004,7 +1004,7 @@
         <mxCell id="q9Dw7c0gLZ24XJoEXtp0-288" value="规划总平面图(PDF)_盖章_去章去坐标" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=16;" parent="q9Dw7c0gLZ24XJoEXtp0-286" vertex="1">
           <mxGeometry y="74" width="240" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WTOQ7RgYzSvXcb4ZEk5k-181" target="WTOQ7RgYzSvXcb4ZEk5k-69" edge="1">
+        <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WTOQ7RgYzSvXcb4ZEk5k-181" target="WTOQ7RgYzSvXcb4ZEk5k-69" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="440" y="-170" />
@@ -1059,8 +1059,8 @@
             <Array as="points">
               <mxPoint x="480" y="-440" />
               <mxPoint x="480" y="-360" />
-              <mxPoint x="1160" y="-360" />
-              <mxPoint x="1160" y="-600" />
+              <mxPoint x="1320" y="-360" />
+              <mxPoint x="1320" y="-600" />
               <mxPoint x="1480" y="-600" />
             </Array>
             <mxPoint x="1590" y="-600" as="targetPoint" />
