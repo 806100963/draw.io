@@ -1,9 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-03-20T17:09:33.445Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="aZTPwc9MkJORMFVmDSaI" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-20T17:14:00.607Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="yfy8j9BQu3c20YfjIFf_" version="12.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="5784" dy="3623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3719" dy="2396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="mlO0ucRKpqIgddhW9gnZ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fontSize=10;fontColor=#FF0000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mlO0ucRKpqIgddhW9gnZ-27" target="mlO0ucRKpqIgddhW9gnZ-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="1220" />
+              <mxPoint x="420" y="1220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-370" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fontSize=10;opacity=90;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WTOQ7RgYzSvXcb4ZEk5k-330" target="q9Dw7c0gLZ24XJoEXtp0-334" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -548,7 +556,7 @@
           <mxGeometry y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9Dw7c0gLZ24XJoEXtp0-246" value="开始" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1670" y="2670" width="120" height="50" as="geometry" />
+          <mxGeometry x="1930" y="2740" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q9Dw7c0gLZ24XJoEXtp0-320" value="核面、核指标、日照" style="swimlane;align=center;html=0;fillColor=#fad7ac;strokeColor=#b46504;startSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-180" y="720" width="140" height="420" as="geometry">
@@ -1280,17 +1288,6 @@
         <mxCell id="q9Dw7c0gLZ24XJoEXtp0-335" value="主要经济指标复核表" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=16;" parent="q9Dw7c0gLZ24XJoEXtp0-338" vertex="1">
           <mxGeometry y="120" width="240" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="q9Dw7c0gLZ24XJoEXtp0-412" value="工规证阶段核心成果材料" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#bac8d3;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;html=0;strokeColor=#23445d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1080" y="3080" width="240" height="94" as="geometry">
-            <mxRectangle x="440" y="980" width="100" height="26" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q9Dw7c0gLZ24XJoEXtp0-413" value="建设工程规划审批单" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=16;" parent="q9Dw7c0gLZ24XJoEXtp0-412" vertex="1">
-          <mxGeometry y="26" width="240" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="q9Dw7c0gLZ24XJoEXtp0-414" value="建设工程规划许可证" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=16;" parent="q9Dw7c0gLZ24XJoEXtp0-412" vertex="1">
-          <mxGeometry y="60" width="240" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="Fh-ANMCCMXkpX_T69aen-19" value="在线盖章" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#d80073;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#A50040;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1200" y="550" width="120" height="160" as="geometry">
             <mxRectangle x="1160" y="520" width="120" height="40" as="alternateBounds" />
@@ -1312,17 +1309,6 @@
         </mxCell>
         <mxCell id="q9Dw7c0gLZ24XJoEXtp0-339" value="放线定位图" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=16;" parent="q9Dw7c0gLZ24XJoEXtp0-334" vertex="1">
           <mxGeometry y="40" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="q9Dw7c0gLZ24XJoEXtp0-409" value="工规证阶段核心成果材料" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;html=0;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="750" y="3250" width="240" height="94" as="geometry">
-            <mxRectangle x="440" y="980" width="100" height="26" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q9Dw7c0gLZ24XJoEXtp0-410" value="建设工程规划审批单" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=16;" parent="q9Dw7c0gLZ24XJoEXtp0-409" vertex="1">
-          <mxGeometry y="26" width="240" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="q9Dw7c0gLZ24XJoEXtp0-411" value="建设工程规划许可证" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=16;" parent="q9Dw7c0gLZ24XJoEXtp0-409" vertex="1">
-          <mxGeometry y="60" width="240" height="34" as="geometry" />
         </mxCell>
         <mxCell id="mlO0ucRKpqIgddhW9gnZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fontColor=#FF3333;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mlO0ucRKpqIgddhW9gnZ-6" target="i07kYGUunpp3_Yyu3WBl-13">
           <mxGeometry relative="1" as="geometry">
@@ -1380,7 +1366,7 @@
           <mxGeometry x="-1450" y="1180" width="290" height="450" as="geometry" />
         </mxCell>
         <mxCell id="mlO0ucRKpqIgddhW9gnZ-26" value="批前公示" style="swimlane;align=center;html=0;fillColor=#fad7ac;strokeColor=#b46504;startSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-820" y="720" width="240" height="860" as="geometry">
+          <mxGeometry x="-820" y="600" width="240" height="860" as="geometry">
             <mxRectangle x="-540" y="920" width="140" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1543,26 +1529,48 @@
           <mxGeometry x="70" y="800" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9Dw7c0gLZ24XJoEXtp0-286" value="批后公布图纸" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;html=0;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1400.52" y="1300" width="240" height="120" as="geometry">
+          <mxGeometry x="1400.52" y="1320" width="240" height="120" as="geometry">
             <mxRectangle x="1360.3" y="1400" width="239.99" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q9Dw7c0gLZ24XJoEXtp0-288" value="规划总平面图(PDF)_盖章_去章去坐标" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=16;" parent="q9Dw7c0gLZ24XJoEXtp0-286" vertex="1">
+        <mxCell id="q9Dw7c0gLZ24XJoEXtp0-288" value="规划总平面图(PDF)_去章去坐标" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=16;" parent="q9Dw7c0gLZ24XJoEXtp0-286" vertex="1">
           <mxGeometry y="40" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q9Dw7c0gLZ24XJoEXtp0-287" value="规划方案审查通知单(PDF)_盖章_去章" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=16;" parent="q9Dw7c0gLZ24XJoEXtp0-286" vertex="1">
+        <mxCell id="q9Dw7c0gLZ24XJoEXtp0-287" value="规划方案审查通知单(PDF)_去章" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=16;" parent="q9Dw7c0gLZ24XJoEXtp0-286" vertex="1">
           <mxGeometry y="80" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mlO0ucRKpqIgddhW9gnZ-75" value="批前公示材料" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;html=0;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1690" y="1300" width="240" height="120" as="geometry">
+          <mxGeometry x="1400.52" y="1180" width="240" height="120" as="geometry">
             <mxRectangle x="1360.3" y="1400" width="239.99" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mlO0ucRKpqIgddhW9gnZ-76" value="规划总平面图(PDF)_盖章_去章去坐标" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=16;" vertex="1" parent="mlO0ucRKpqIgddhW9gnZ-75">
+        <mxCell id="mlO0ucRKpqIgddhW9gnZ-76" value="公示图纸、公告" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=16;" vertex="1" parent="mlO0ucRKpqIgddhW9gnZ-75">
           <mxGeometry y="40" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mlO0ucRKpqIgddhW9gnZ-77" value="规划方案审查通知单(PDF)_盖章_去章" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=16;" vertex="1" parent="mlO0ucRKpqIgddhW9gnZ-75">
+        <mxCell id="mlO0ucRKpqIgddhW9gnZ-77" value="公示反馈意见（现场及网络）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=16;" vertex="1" parent="mlO0ucRKpqIgddhW9gnZ-75">
           <mxGeometry y="80" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q9Dw7c0gLZ24XJoEXtp0-409" value="工规证阶段核心成果材料" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;html=0;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1241" y="3240" width="240" height="94" as="geometry">
+            <mxRectangle x="440" y="980" width="100" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q9Dw7c0gLZ24XJoEXtp0-410" value="建设工程规划审批单" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=16;" parent="q9Dw7c0gLZ24XJoEXtp0-409" vertex="1">
+          <mxGeometry y="26" width="240" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="q9Dw7c0gLZ24XJoEXtp0-411" value="建设工程规划许可证" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=16;" parent="q9Dw7c0gLZ24XJoEXtp0-409" vertex="1">
+          <mxGeometry y="60" width="240" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="q9Dw7c0gLZ24XJoEXtp0-412" value="工规证阶段核心成果材料" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#bac8d3;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;html=0;strokeColor=#23445d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1850" y="3070" width="240" height="94" as="geometry">
+            <mxRectangle x="440" y="980" width="100" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q9Dw7c0gLZ24XJoEXtp0-413" value="建设工程规划审批单" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=16;" parent="q9Dw7c0gLZ24XJoEXtp0-412" vertex="1">
+          <mxGeometry y="26" width="240" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="q9Dw7c0gLZ24XJoEXtp0-414" value="建设工程规划许可证" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=16;" parent="q9Dw7c0gLZ24XJoEXtp0-412" vertex="1">
+          <mxGeometry y="60" width="240" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
