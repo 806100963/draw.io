@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-20T08:23:25.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="Ju_hyHfgU_KLB7-THjrJ" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-20T08:41:11.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="1n60o_SlCnn1NjlycBej" version="12.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -472,11 +472,11 @@
           <mxGeometry y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Fh-ANMCCMXkpX_T69aen-12" value="加盖电子印章" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#d80073;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1160" y="169" width="120" height="200" as="geometry">
+          <mxGeometry x="1160" y="160" width="120" height="200" as="geometry">
             <mxRectangle x="1160" y="200" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fh-ANMCCMXkpX_T69aen-17" value="&lt;div&gt;选择需盖章文件&lt;/div&gt;&lt;div&gt;（总图_PDF）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Fh-ANMCCMXkpX_T69aen-12">
+        <mxCell id="Fh-ANMCCMXkpX_T69aen-17" value="&lt;div&gt;选择需盖章文件&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Fh-ANMCCMXkpX_T69aen-12">
           <mxGeometry y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Fh-ANMCCMXkpX_T69aen-13" value="注入图纸批注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Fh-ANMCCMXkpX_T69aen-12">
@@ -485,7 +485,32 @@
         <mxCell id="Fh-ANMCCMXkpX_T69aen-16" value="注入文本意见" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Fh-ANMCCMXkpX_T69aen-12">
           <mxGeometry y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Fh-ANMCCMXkpX_T69aen-14" value="注入印章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Fh-ANMCCMXkpX_T69aen-12">
+        <mxCell id="Fh-ANMCCMXkpX_T69aen-14" value="注入电子印章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Fh-ANMCCMXkpX_T69aen-12">
+          <mxGeometry y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fh-ANMCCMXkpX_T69aen-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fh-ANMCCMXkpX_T69aen-23" target="WTOQ7RgYzSvXcb4ZEk5k-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1300" y="680" />
+              <mxPoint x="1300" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fh-ANMCCMXkpX_T69aen-19" value="加盖电子印章" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#d80073;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1160" y="520" width="120" height="200" as="geometry">
+            <mxRectangle x="1160" y="520" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fh-ANMCCMXkpX_T69aen-20" value="&lt;div&gt;选择需盖章文件&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Fh-ANMCCMXkpX_T69aen-19">
+          <mxGeometry y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fh-ANMCCMXkpX_T69aen-21" value="注入图纸批注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Fh-ANMCCMXkpX_T69aen-19">
+          <mxGeometry y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fh-ANMCCMXkpX_T69aen-22" value="注入文本意见" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Fh-ANMCCMXkpX_T69aen-19">
+          <mxGeometry y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fh-ANMCCMXkpX_T69aen-23" value="注入电子印章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Fh-ANMCCMXkpX_T69aen-19">
           <mxGeometry y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9Dw7c0gLZ24XJoEXtp0-246" value="开始" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -604,6 +629,23 @@
         </mxCell>
         <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-269" value="规划方案审查通知单信息" style="shape=card;whiteSpace=wrap;html=1;align=center;size=22;" parent="WTOQ7RgYzSvXcb4ZEk5k-268" vertex="1">
           <mxGeometry y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fh-ANMCCMXkpX_T69aen-30" value="加盖电子印章" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#d80073;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1160" y="840" width="120" height="200" as="geometry">
+            <mxRectangle x="1160" y="520" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fh-ANMCCMXkpX_T69aen-31" value="&lt;div&gt;输出表打印&lt;/div&gt;&lt;div&gt;PDF格式文件&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Fh-ANMCCMXkpX_T69aen-30">
+          <mxGeometry y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fh-ANMCCMXkpX_T69aen-32" value="注入电子印章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Fh-ANMCCMXkpX_T69aen-30">
+          <mxGeometry y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fh-ANMCCMXkpX_T69aen-33" value="存入对应文件夹" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Fh-ANMCCMXkpX_T69aen-30">
+          <mxGeometry y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fh-ANMCCMXkpX_T69aen-34" value="注入印章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Fh-ANMCCMXkpX_T69aen-30">
+          <mxGeometry y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9Dw7c0gLZ24XJoEXtp0-412" value="工规证阶段核心成果材料" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#bac8d3;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;html=0;strokeColor=#23445d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1040" y="2880" width="240" height="94" as="geometry">
@@ -781,20 +823,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q9Dw7c0gLZ24XJoEXtp0-61" target="WTOQ7RgYzSvXcb4ZEk5k-96" edge="1">
+        <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q9Dw7c0gLZ24XJoEXtp0-61" target="Fh-ANMCCMXkpX_T69aen-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="640" />
               <mxPoint x="480" y="680" />
             </Array>
+            <mxPoint x="1020" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q9Dw7c0gLZ24XJoEXtp0-61" target="WTOQ7RgYzSvXcb4ZEk5k-84" edge="1">
+        <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q9Dw7c0gLZ24XJoEXtp0-61" target="Fh-ANMCCMXkpX_T69aen-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="640" />
               <mxPoint x="480" y="560" />
             </Array>
+            <mxPoint x="1010" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WTOQ7RgYzSvXcb4ZEk5k-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q9Dw7c0gLZ24XJoEXtp0-10" target="WTOQ7RgYzSvXcb4ZEk5k-171" edge="1">
@@ -1099,6 +1143,15 @@
             </Array>
             <mxPoint x="480" y="200" as="sourcePoint" />
             <mxPoint x="1480.4099999999999" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fh-ANMCCMXkpX_T69aen-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fh-ANMCCMXkpX_T69aen-19" target="WTOQ7RgYzSvXcb4ZEk5k-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1310" y="550" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1290" y="560" />
+              <mxPoint x="1290" y="560" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
