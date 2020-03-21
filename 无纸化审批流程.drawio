@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-21T17:17:24.853Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="JR1aa-2pBDsXD53Rabzh" version="12.8.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-03-21T17:27:32.235Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="f_cfOIH5YDJoDV7R0ENP" version="12.8.8" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="方案审查阶段流程">
     <mxGraphModel dx="6673" dy="4163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1285,7 +1285,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IWcRJa5ABr7eysoLyfyq" name="总流程">
-    <mxGraphModel dx="3365" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1392" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="z6oOe2OgS2GNctfrwj9R-0" />
         <mxCell id="z6oOe2OgS2GNctfrwj9R-1" parent="z6oOe2OgS2GNctfrwj9R-0" />
@@ -1359,7 +1359,7 @@
         <mxCell id="S_GLqlgb_VXz5NBhiJDW-60" value="历史材料链接（最新版本）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-56">
           <mxGeometry y="40" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="S_GLqlgb_VXz5NBhiJDW-59" value="......" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-56">
+        <mxCell id="S_GLqlgb_VXz5NBhiJDW-59" value="历史材料连接（......）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-56">
           <mxGeometry y="60" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="S_GLqlgb_VXz5NBhiJDW-58" value="历史材料链接（版本2）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-56">
@@ -1441,7 +1441,7 @@
         <mxCell id="S_GLqlgb_VXz5NBhiJDW-137" value="历史材料链接（最新版本）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-136">
           <mxGeometry y="40" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="S_GLqlgb_VXz5NBhiJDW-138" value="......" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-136">
+        <mxCell id="S_GLqlgb_VXz5NBhiJDW-138" value="历史材料连接（......）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-136">
           <mxGeometry y="60" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="S_GLqlgb_VXz5NBhiJDW-139" value="历史材料链接（版本2）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-136">
@@ -1520,7 +1520,7 @@
         <mxCell id="S_GLqlgb_VXz5NBhiJDW-168" value="历史材料链接（最新版本）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-167">
           <mxGeometry y="40" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="S_GLqlgb_VXz5NBhiJDW-169" value="......" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-167">
+        <mxCell id="S_GLqlgb_VXz5NBhiJDW-169" value="历史材料连接（......）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-167">
           <mxGeometry y="60" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="S_GLqlgb_VXz5NBhiJDW-170" value="历史材料链接（版本2）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-167">
@@ -1570,6 +1570,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="S_GLqlgb_VXz5NBhiJDW-204" value="历史案卷材料" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#0050ef;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="z6oOe2OgS2GNctfrwj9R-25">
+          <mxGeometry x="720" y="241" width="200" height="240" as="geometry">
+            <mxRectangle y="520" width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S_GLqlgb_VXz5NBhiJDW-205" value="历史材料链接（最新版本）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-204">
+          <mxGeometry y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S_GLqlgb_VXz5NBhiJDW-210" value="历史材料链接（上一版本）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-204">
+          <mxGeometry y="80" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S_GLqlgb_VXz5NBhiJDW-206" value="历史材料连接（......）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-204">
+          <mxGeometry y="120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S_GLqlgb_VXz5NBhiJDW-207" value="历史材料链接（版本2）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-204">
+          <mxGeometry y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S_GLqlgb_VXz5NBhiJDW-208" value="历史材料链接（版本1）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-204">
+          <mxGeometry y="200" width="200" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="S_GLqlgb_VXz5NBhiJDW-61" value="关联信息（本次申报）" style="swimlane;html=1;startSize=40;" vertex="1" parent="z6oOe2OgS2GNctfrwj9R-25">
           <mxGeometry x="40" y="181" width="160" height="180" as="geometry">
             <mxRectangle x="40" y="181" width="160" height="40" as="alternateBounds" />
@@ -1582,7 +1602,7 @@
           <mxGeometry x="20" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S_GLqlgb_VXz5NBhiJDW-67" value="版本管理" style="swimlane;html=1;startSize=40;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="z6oOe2OgS2GNctfrwj9R-25">
-          <mxGeometry x="280" y="141" width="440" height="619" as="geometry">
+          <mxGeometry x="280" y="141" width="220" height="619" as="geometry">
             <mxRectangle x="40" y="80" width="160" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1711,23 +1731,6 @@
         <mxCell id="S_GLqlgb_VXz5NBhiJDW-145" value="变更前案卷编号&lt;br&gt;（最近一次）" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;labelPosition=center;align=center;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-143">
           <mxGeometry x="20" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S_GLqlgb_VXz5NBhiJDW-204" value="历史案卷材料" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#0050ef;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="z6oOe2OgS2GNctfrwj9R-25">
-          <mxGeometry x="280" y="881" width="200" height="120" as="geometry">
-            <mxRectangle y="520" width="160" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S_GLqlgb_VXz5NBhiJDW-205" value="历史材料链接（最新版本）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-204">
-          <mxGeometry y="40" width="200" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="S_GLqlgb_VXz5NBhiJDW-206" value="......" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-204">
-          <mxGeometry y="60" width="200" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="S_GLqlgb_VXz5NBhiJDW-207" value="历史材料链接（版本2）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-204">
-          <mxGeometry y="80" width="200" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="S_GLqlgb_VXz5NBhiJDW-208" value="历史材料链接（版本1）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="S_GLqlgb_VXz5NBhiJDW-204">
-          <mxGeometry y="100" width="200" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="S_GLqlgb_VXz5NBhiJDW-175" value="关联信息（首次申报）" style="swimlane;html=1;startSize=40;" vertex="1" parent="z6oOe2OgS2GNctfrwj9R-25">
           <mxGeometry x="40" y="1361" width="160" height="119" as="geometry">
             <mxRectangle x="40" y="701" width="160" height="40" as="alternateBounds" />
@@ -1774,7 +1777,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S_GLqlgb_VXz5NBhiJDW-187" value="材料数据" style="swimlane;html=1;startSize=40;" vertex="1" parent="z6oOe2OgS2GNctfrwj9R-25">
-          <mxGeometry x="800" y="161" width="200" height="279" as="geometry">
+          <mxGeometry x="480" y="881" width="200" height="279" as="geometry">
             <mxRectangle width="200" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
