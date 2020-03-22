@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-22T16:35:36.381Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="h4MtYuHUAT6y0PdiWeiR" version="12.8.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-03-22T16:42:56.099Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="1D8u8gScRbU6-VpYEm1Z" version="12.8.8" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="方案审查阶段流程">
     <mxGraphModel dx="2873" dy="2217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2016,7 +2016,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="总流程 的副本" id="si6Y7Quz6I4i3DUo-T6d">
-    <mxGraphModel dx="6769" dy="4958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="15294" dy="9325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="RFcSqIg-WvwGTOEFMk2K-0" />
         <mxCell id="RFcSqIg-WvwGTOEFMk2K-1" parent="RFcSqIg-WvwGTOEFMk2K-0" />
@@ -3578,7 +3578,7 @@
           <mxGeometry x="1560" y="-2240" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZRH4XWxte9HB_PEhPCbv-22" value="&lt;span style=&quot;white-space: normal&quot;&gt;现场申报&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;fontSize=50;strokeColor=#6c8ebf;" vertex="1" parent="RFcSqIg-WvwGTOEFMk2K-1">
-          <mxGeometry x="-1110" y="-2240" width="750" height="120" as="geometry" />
+          <mxGeometry x="-880" y="-2240" width="520" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZRH4XWxte9HB_PEhPCbv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;strokeColor=#000000;strokeWidth=4;fontSize=50;startFill=0;" edge="1" parent="RFcSqIg-WvwGTOEFMk2K-1" source="ZRH4XWxte9HB_PEhPCbv-25" target="whn6tFzhI6GgUcRLhTcm-266">
           <mxGeometry relative="1" as="geometry">
@@ -3766,16 +3766,16 @@
         <mxCell id="ZRH4XWxte9HB_PEhPCbv-113" value="方案审查通知单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRH4XWxte9HB_PEhPCbv-112">
           <mxGeometry y="20" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZRH4XWxte9HB_PEhPCbv-114" value="审定总图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRH4XWxte9HB_PEhPCbv-112">
+        <mxCell id="ZRH4XWxte9HB_PEhPCbv-117" value="技术审查报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRH4XWxte9HB_PEhPCbv-112">
           <mxGeometry y="40" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZRH4XWxte9HB_PEhPCbv-115" value="单体图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRH4XWxte9HB_PEhPCbv-112">
+        <mxCell id="ZRH4XWxte9HB_PEhPCbv-114" value="审定总图" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#CCCCCC;" vertex="1" parent="ZRH4XWxte9HB_PEhPCbv-112">
           <mxGeometry y="60" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZRH4XWxte9HB_PEhPCbv-116" value="放线、核面总图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRH4XWxte9HB_PEhPCbv-112">
+        <mxCell id="ZRH4XWxte9HB_PEhPCbv-115" value="单体图" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#CCCCCC;" vertex="1" parent="ZRH4XWxte9HB_PEhPCbv-112">
           <mxGeometry y="80" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZRH4XWxte9HB_PEhPCbv-117" value="技术审查报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZRH4XWxte9HB_PEhPCbv-112">
+        <mxCell id="ZRH4XWxte9HB_PEhPCbv-116" value="放线、核面总图" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#CCCCCC;" vertex="1" parent="ZRH4XWxte9HB_PEhPCbv-112">
           <mxGeometry y="100" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZRH4XWxte9HB_PEhPCbv-84" value="方案审批及工规证发放" style="swimlane;startSize=40;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="RFcSqIg-WvwGTOEFMk2K-1">
@@ -3866,7 +3866,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZRH4XWxte9HB_PEhPCbv-141" value="项目号挂号" style="swimlane;html=1;startSize=40;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="RFcSqIg-WvwGTOEFMk2K-1">
-          <mxGeometry x="-1550" y="-1605" width="400" height="200" as="geometry">
+          <mxGeometry x="-800" y="-1570" width="400" height="200" as="geometry">
             <mxRectangle x="1080" y="380" width="200" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -3913,6 +3913,9 @@
         </mxCell>
         <mxCell id="ZRH4XWxte9HB_PEhPCbv-159" value="" style="shape=mxgraph.bpmn.user_task;html=1;outlineConnect=0;strokeWidth=1;fillColor=#FFFFFF;fontSize=12;opacity=90;" vertex="1" parent="RFcSqIg-WvwGTOEFMk2K-1">
           <mxGeometry x="-180" y="2000" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRH4XWxte9HB_PEhPCbv-166" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=conditional;strokeWidth=1;fillColor=#FFFFFF;fontSize=12;" vertex="1" parent="RFcSqIg-WvwGTOEFMk2K-1">
+          <mxGeometry x="-220" y="2380" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
