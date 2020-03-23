@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T18:03:15.013Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="7gp4YgZY4XD-xhgA1oY5" version="12.8.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-03-23T18:10:14.609Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="BL7DiHgFq20N9r0fpA5M" version="12.8.9" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="方案审查阶段流程">
     <mxGraphModel dx="2873" dy="2217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1285,7 +1285,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of 总流程 的副本" id="lWyg9rKJXZfcLV4nON5k">
-    <mxGraphModel dx="4061" dy="3571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8474" dy="5831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="X9fUQGjjx5cKvN6i0PXg-0" />
         <mxCell id="X9fUQGjjx5cKvN6i0PXg-1" parent="X9fUQGjjx5cKvN6i0PXg-0" />
@@ -2810,7 +2810,7 @@
           <mxGeometry x="-180" y="-900" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="X9fUQGjjx5cKvN6i0PXg-346" value="&lt;span style=&quot;white-space: normal&quot;&gt;新区多规合平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;fontSize=50;strokeColor=#6c8ebf;" vertex="1" parent="X9fUQGjjx5cKvN6i0PXg-1">
-          <mxGeometry x="80" y="-2240" width="1400" height="120" as="geometry" />
+          <mxGeometry x="80" y="-2240" width="1920" height="120" as="geometry" />
         </mxCell>
         <mxCell id="X9fUQGjjx5cKvN6i0PXg-347" value="&lt;span style=&quot;white-space: normal&quot;&gt;市多规网厅申报&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;fontSize=50;strokeColor=#6c8ebf;" vertex="1" parent="X9fUQGjjx5cKvN6i0PXg-1">
           <mxGeometry x="2600" y="-2240" width="980" height="120" as="geometry" />
@@ -2820,14 +2820,6 @@
         </mxCell>
         <mxCell id="X9fUQGjjx5cKvN6i0PXg-349" value="&lt;span style=&quot;white-space: normal&quot;&gt;现场申报&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;fontSize=50;strokeColor=#6c8ebf;" vertex="1" parent="X9fUQGjjx5cKvN6i0PXg-1">
           <mxGeometry x="-880" y="-2240" width="520" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="X9fUQGjjx5cKvN6i0PXg-350" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;strokeColor=#000000;strokeWidth=4;fontSize=50;startFill=0;" edge="1" parent="X9fUQGjjx5cKvN6i0PXg-1" source="X9fUQGjjx5cKvN6i0PXg-352" target="X9fUQGjjx5cKvN6i0PXg-192">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1520" y="-1450" />
-              <mxPoint x="1520" y="-1450" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="X9fUQGjjx5cKvN6i0PXg-351" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;startFill=0;strokeColor=#000000;strokeWidth=4;fontSize=50;" edge="1" parent="X9fUQGjjx5cKvN6i0PXg-1" source="X9fUQGjjx5cKvN6i0PXg-352" target="X9fUQGjjx5cKvN6i0PXg-270">
           <mxGeometry relative="1" as="geometry">
@@ -2857,26 +2849,6 @@
               <mxPoint x="540" y="1580" />
               <mxPoint x="300" y="1580" />
               <mxPoint x="300" y="1890" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X9fUQGjjx5cKvN6i0PXg-355" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=22;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;strokeColor=#000000;strokeWidth=4;fontSize=12;" edge="1" parent="X9fUQGjjx5cKvN6i0PXg-1" source="X9fUQGjjx5cKvN6i0PXg-265" target="X9fUQGjjx5cKvN6i0PXg-206">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2360" y="-1758" />
-              <mxPoint x="2360" y="-1730" />
-              <mxPoint x="1400" y="-1730" />
-              <mxPoint x="1400" y="-1700" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X9fUQGjjx5cKvN6i0PXg-356" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=22;entryPerimeter=0;startArrow=none;startFill=0;strokeColor=#000000;strokeWidth=4;fontSize=12;" edge="1" parent="X9fUQGjjx5cKvN6i0PXg-1" source="X9fUQGjjx5cKvN6i0PXg-179" target="X9fUQGjjx5cKvN6i0PXg-275">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1400" y="-1760" />
-              <mxPoint x="1400" y="-1730" />
-              <mxPoint x="2360" y="-1730" />
-              <mxPoint x="2360" y="-1698" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3379,7 +3351,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Copy of 总流程 的副本" id="PW5eHBtCgqdWznxkpkyS">
-    <mxGraphModel dx="3700" dy="3386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9838" dy="6530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="72CPs4JORYHu23SC4JhY-0" />
         <mxCell id="72CPs4JORYHu23SC4JhY-1" parent="72CPs4JORYHu23SC4JhY-0" />
@@ -3680,9 +3652,11 @@
         <mxCell id="Www386Hw2lbFPC5mf959-9" value="输出表在线盖章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Www386Hw2lbFPC5mf959-7">
           <mxGeometry x="20" y="120" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Www386Hw2lbFPC5mf959-12" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="72CPs4JORYHu23SC4JhY-1" source="72CPs4JORYHu23SC4JhY-74" target="Www386Hw2lbFPC5mf959-4">
+        <mxCell id="BZr9t9Q9eXFevHQWMma0-0" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="72CPs4JORYHu23SC4JhY-1" target="Www386Hw2lbFPC5mf959-4">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1760" y="1060" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="1760" y="1060" />
               <mxPoint x="1760" y="1380" />
               <mxPoint x="1500" y="1380" />
             </Array>
@@ -4040,11 +4014,16 @@
         <mxCell id="72CPs4JORYHu23SC4JhY-159" value="案卷编号（变更公示1）" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;labelPosition=center;align=center;" vertex="1" parent="72CPs4JORYHu23SC4JhY-157">
           <mxGeometry y="80" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Www386Hw2lbFPC5mf959-3" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="72CPs4JORYHu23SC4JhY-1" source="72CPs4JORYHu23SC4JhY-160" target="72CPs4JORYHu23SC4JhY-477">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Www386Hw2lbFPC5mf959-3" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="72CPs4JORYHu23SC4JhY-1" source="72CPs4JORYHu23SC4JhY-160" target="72CPs4JORYHu23SC4JhY-477">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1500" y="-280" />
+              <mxPoint x="1500" y="-280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="72CPs4JORYHu23SC4JhY-160" value="规划咨询阶段" style="swimlane;startSize=40;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="72CPs4JORYHu23SC4JhY-1">
-          <mxGeometry x="120" y="-1140" width="1000" height="620" as="geometry">
+          <mxGeometry x="120" y="-1140" width="1800" height="620" as="geometry">
             <mxRectangle x="160" y="159" width="560" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4144,7 +4123,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="72CPs4JORYHu23SC4JhY-185" value="发起材料补正" style="swimlane;html=1;startSize=40;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="72CPs4JORYHu23SC4JhY-160">
-          <mxGeometry x="760" y="80" width="200" height="340" as="geometry">
+          <mxGeometry x="1560" y="80" width="200" height="340" as="geometry">
             <mxRectangle x="1080" y="380" width="200" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -5345,7 +5324,7 @@
         <mxCell id="Www386Hw2lbFPC5mf959-11" value="经办人、中介审查单位信息" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;labelPosition=center;align=center;" vertex="1" parent="72CPs4JORYHu23SC4JhY-1">
           <mxGeometry x="1400" y="-360" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Www386Hw2lbFPC5mf959-13" value="经办人、中介审查单位信息" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;labelPosition=center;align=center;" vertex="1" parent="72CPs4JORYHu23SC4JhY-1">
+        <mxCell id="BZr9t9Q9eXFevHQWMma0-1" value="经办人、中介审查单位信息" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;labelPosition=center;align=center;" vertex="1" parent="72CPs4JORYHu23SC4JhY-1">
           <mxGeometry x="1530" y="1340" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
