@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T18:10:14.609Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="BL7DiHgFq20N9r0fpA5M" version="12.8.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-03-23T18:16:43.541Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Hm0gJXVrLR4V6fhoq6pw" version="12.8.9" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="方案审查阶段流程">
     <mxGraphModel dx="2873" dy="2217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3351,7 +3351,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Copy of 总流程 的副本" id="PW5eHBtCgqdWznxkpkyS">
-    <mxGraphModel dx="9838" dy="6530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7500" dy="5332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="72CPs4JORYHu23SC4JhY-0" />
         <mxCell id="72CPs4JORYHu23SC4JhY-1" parent="72CPs4JORYHu23SC4JhY-0" />
@@ -3938,6 +3938,14 @@
         </mxCell>
         <mxCell id="Www386Hw2lbFPC5mf959-2" value="输出表在线盖章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Www386Hw2lbFPC5mf959-0">
           <mxGeometry x="20" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BZr9t9Q9eXFevHQWMma0-2" value="在线盖章" style="swimlane;html=1;startSize=40;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="72CPs4JORYHu23SC4JhY-74">
+          <mxGeometry x="1520" y="430" width="200" height="150" as="geometry">
+            <mxRectangle x="1080" y="380" width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BZr9t9Q9eXFevHQWMma0-3" value="图纸在线盖章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BZr9t9Q9eXFevHQWMma0-2">
+          <mxGeometry x="20" y="61" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="72CPs4JORYHu23SC4JhY-141" value="批前公示阶段" style="swimlane;startSize=40;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="72CPs4JORYHu23SC4JhY-1">
           <mxGeometry x="120" width="940" height="360" as="geometry">
