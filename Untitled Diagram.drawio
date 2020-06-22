@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2020-06-22T13:29:03.245Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="nMHked00VNqGWOHwoCnE" version="13.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-22T13:52:45.612Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="yY0SwLHxUso3kOhbCp_j" version="13.3.0" type="github">
   <diagram id="d_TtvwyaBQ2j3ashljvY" name="Page-1">
     <mxGraphModel dx="2006" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="czsc24-IMfko61f4KDdS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="czsc24-IMfko61f4KDdS-1" target="czsc24-IMfko61f4KDdS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="czsc24-IMfko61f4KDdS-1" value="收文登记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="czsc24-IMfko61f4KDdS-2" value="领导签批意见" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
