@@ -1,1 +1,139 @@
-<mxfile host="app.diagrams.net" modified="2020-07-29T14:56:03.296Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" version="13.5.5" etag="nMCkhF1hBOhzj40PXRPB" type="github"><diagram id="1azCIsr24dR7rAIuXTd9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-30T14:58:38.331Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="E9W2R1AW6ShFbZ2Bf-jE" version="13.5.5" type="github">
+  <diagram id="1azCIsr24dR7rAIuXTd9" name="Page-1">
+    <mxGraphModel dx="6566" dy="1252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H-GlD4rr_UW9croJ5woa-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="H-GlD4rr_UW9croJ5woa-2" target="H-GlD4rr_UW9croJ5woa-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="390" />
+              <mxPoint x="200" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="H-GlD4rr_UW9croJ5woa-2" target="H-GlD4rr_UW9croJ5woa-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="560" />
+              <mxPoint x="80" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="H-GlD4rr_UW9croJ5woa-2" target="H-GlD4rr_UW9croJ5woa-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="360" />
+              <mxPoint x="1120" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-2" value="综合处收文登记&lt;br&gt;（向秋菊）" style="rounded=0;whiteSpace=wrap;html=1;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="200" width="800" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="H-GlD4rr_UW9croJ5woa-4" target="H-GlD4rr_UW9croJ5woa-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="680" />
+              <mxPoint x="520" y="680" />
+              <mxPoint x="520" y="440" />
+              <mxPoint x="880" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeWidth=5;" edge="1" parent="1" source="H-GlD4rr_UW9croJ5woa-4" target="H-GlD4rr_UW9croJ5woa-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="730" />
+              <mxPoint x="200" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeWidth=5;" edge="1" parent="1" source="H-GlD4rr_UW9croJ5woa-4" target="H-GlD4rr_UW9croJ5woa-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-40" y="880" />
+              <mxPoint x="-40" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-4" value="局领导批示&lt;br&gt;（局领导）" style="whiteSpace=wrap;html=1;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="520" width="800" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeWidth=5;" edge="1" parent="1" source="H-GlD4rr_UW9croJ5woa-5" target="H-GlD4rr_UW9croJ5woa-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="680" />
+              <mxPoint x="1440" y="680" />
+              <mxPoint x="1440" y="120" />
+              <mxPoint x="320" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-5" value="局领导会签&lt;br&gt;（局领导）" style="whiteSpace=wrap;html=1;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="800" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeWidth=5;" edge="1" parent="1" source="H-GlD4rr_UW9croJ5woa-17" target="H-GlD4rr_UW9croJ5woa-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1040" />
+              <mxPoint x="200" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-17" value="主办科室处长提出办理意见&lt;br&gt;（各处室处长）" style="whiteSpace=wrap;html=1;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="840" width="800" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-20" value="主办人办理&lt;br&gt;（各处室人员，包括处长）" style="whiteSpace=wrap;html=1;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1160" width="800" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=5;" edge="1" parent="1" source="H-GlD4rr_UW9croJ5woa-5" target="H-GlD4rr_UW9croJ5woa-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="680" />
+              <mxPoint x="520" y="680" />
+              <mxPoint x="520" y="440" />
+              <mxPoint x="880" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-37" value="主办人发起协办&lt;br&gt;（各处室人员，包括处长）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="1160" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-40" value="主办处室处长&lt;br&gt;（各处室处长）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="1860" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-43" value="综合处收文登记（向秋菊）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3360" y="380" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-45" value="需局领导批示 —&amp;gt; 局领导批示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3120" y="380" width="240" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-46" value="需局领导会签 —&amp;gt; 局领导会签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3120" y="220" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-48" value="不需其他局领导会签 —&amp;gt; 综合处收文登记（向秋菊）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2880" y="220" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-49" value="可明确主办处室，但不确定主办人 —&amp;gt; 主办处室处长提出意见（各处室处长）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2880" y="460" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-50" value="可明确主办人 —&amp;gt; 主办人办理（各处室人员，含处长）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2880" y="540" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-51" value="需其他局领导会签 —&amp;gt; 局领导会签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2880" y="380" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-55" value="需其他局领导会签 —&amp;gt; 局领导会签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2880" y="300" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-56" value="党支部收文办理 —&amp;gt; 党支部专项委员办理（各委员）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2880" y="620" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-66" value="岳麓分局办理 —&amp;gt; 岳麓分局（各委员）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2880" y="700" width="280" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
