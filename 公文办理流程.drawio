@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-30T17:11:38.660Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="Oz48kgZ5Xbfbmpzjgi69" version="13.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-30T17:28:58.999Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="MzZNSfTxRmqmOfwco2Xn" version="13.5.5" type="github">
   <diagram id="1azCIsr24dR7rAIuXTd9" name="Page-1">
     <mxGraphModel dx="6566" dy="1252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -137,7 +137,7 @@
               <mxPoint x="-1960" y="921" />
               <mxPoint x="-1960" y="120" />
               <mxPoint x="-3440" y="120" />
-              <mxPoint x="-3440" y="320" />
+              <mxPoint x="-3440" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -167,20 +167,40 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-2800" y="920" />
-              <mxPoint x="-2800" y="1480" />
-              <mxPoint x="-3440" y="1480" />
-              <mxPoint x="-3440" y="1720" />
+              <mxPoint x="-2800" y="1320" />
+              <mxPoint x="-3440" y="1320" />
+              <mxPoint x="-3440" y="1560" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="H-GlD4rr_UW9croJ5woa-124" value="&amp;nbsp;主办处室处长提出意见&lt;br&gt;（各处室处长）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-3000" y="880" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-241" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="H-GlD4rr_UW9croJ5woa-136" target="H-GlD4rr_UW9croJ5woa-234">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2760" y="999" />
+              <mxPoint x="-2760" y="1920" />
+              <mxPoint x="-3480" y="1920" />
+              <mxPoint x="-3480" y="2080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="H-GlD4rr_UW9croJ5woa-136" value="主办人办理&lt;br&gt;（各处室人员，含处长）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-3000" y="959" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H-GlD4rr_UW9croJ5woa-188" value="由综合处派件" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.45;dx=41.35;notch=0;opacity=90;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-3160" y="1200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-233" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="H-GlD4rr_UW9croJ5woa-189" target="H-GlD4rr_UW9croJ5woa-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1920" y="1240" />
+              <mxPoint x="-1920" y="80" />
+              <mxPoint x="-3480" y="80" />
+              <mxPoint x="-3480" y="240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="H-GlD4rr_UW9croJ5woa-189" value="综合出收文派件&lt;br&gt;（向秋菊）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-3000" y="1200" width="160" height="80" as="geometry" />
@@ -191,8 +211,8 @@
         <mxCell id="H-GlD4rr_UW9croJ5woa-229" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="H-GlD4rr_UW9croJ5woa-191" target="H-GlD4rr_UW9croJ5woa-46">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2720" y="840" />
-              <mxPoint x="-2720" y="920" />
+              <mxPoint x="-2680" y="840" />
+              <mxPoint x="-2680" y="881" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -223,7 +243,7 @@
               <mxPoint x="-2760" y="359" />
               <mxPoint x="-2760" y="640" />
               <mxPoint x="-3480" y="640" />
-              <mxPoint x="-3480" y="1760" />
+              <mxPoint x="-3480" y="1600" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -258,25 +278,66 @@
           <mxGeometry x="-3000" y="160" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H-GlD4rr_UW9croJ5woa-210" value="&amp;nbsp;主办处室处长提出意见&lt;br&gt;（各处室处长）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="-3400" y="1520" width="240" height="480" as="geometry" />
+          <mxGeometry x="-3400" y="1520" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="H-GlD4rr_UW9croJ5woa-211" value="需其他处室协办" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.45;dx=41.35;notch=0;opacity=90;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="-3160" y="1600" width="160" height="80" as="geometry" />
+          <mxGeometry x="-3160" y="1520" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H-GlD4rr_UW9croJ5woa-212" value="不需其他处室协办" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.45;dx=41.35;notch=0;opacity=90;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="-3160" y="1680" width="160" height="80" as="geometry" />
+          <mxGeometry x="-3160" y="1600" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H-GlD4rr_UW9croJ5woa-217" value="&amp;nbsp;主办人分办&lt;br&gt;（各处室处长）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="-3000" y="1600" width="160" height="80" as="geometry" />
+        <mxCell id="H-GlD4rr_UW9croJ5woa-217" value="&amp;nbsp;主办人发起协办&lt;br&gt;（各处室处长）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="-3000" y="1520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-242" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="H-GlD4rr_UW9croJ5woa-218" target="H-GlD4rr_UW9croJ5woa-234">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2800" y="1639" />
+              <mxPoint x="-2800" y="1960" />
+              <mxPoint x="-3440" y="1960" />
+              <mxPoint x="-3440" y="2040" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="H-GlD4rr_UW9croJ5woa-218" value="主办人办理&lt;br&gt;（各处室人员，含处长）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="-3000" y="1679" width="160" height="80" as="geometry" />
+          <mxGeometry x="-3000" y="1599" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H-GlD4rr_UW9croJ5woa-219" value="非本处室职责，需移交&lt;br&gt;其他处室办理" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.45;dx=41.35;notch=0;opacity=90;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="-3160" y="1920" width="160" height="80" as="geometry" />
+          <mxGeometry x="-3160" y="1680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-243" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="H-GlD4rr_UW9croJ5woa-220" target="H-GlD4rr_UW9croJ5woa-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1880" y="1720" />
+              <mxPoint x="-1880" y="40" />
+              <mxPoint x="-3520" y="40" />
+              <mxPoint x="-3520" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="H-GlD4rr_UW9croJ5woa-220" value="综合出收文派件&lt;br&gt;（向秋菊）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="-3000" y="1920" width="160" height="80" as="geometry" />
+          <mxGeometry x="-3000" y="1680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-234" value="主办人办理&lt;br&gt;（各处室人员，含处长）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="-3400" y="2000" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-235" value="需其他处室协办" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.45;dx=41.35;notch=0;opacity=90;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="-3160" y="2000" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-236" value="不需其他处室协办" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.45;dx=41.35;notch=0;opacity=90;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="-3160" y="2080" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-237" value="&amp;nbsp;主办人发起协办&lt;br&gt;（各处室处长）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="-3000" y="2000" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-238" value="主办人办理&lt;br&gt;（各处室人员，含处长）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="-3000" y="2079" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-239" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.45;dx=41.35;notch=0;opacity=90;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="-3160" y="2160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H-GlD4rr_UW9croJ5woa-240" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="-3000" y="2160" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
