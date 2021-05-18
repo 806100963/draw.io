@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T05:33:55.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="6jTgt1YxFthSM-z7HCqo" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T05:56:57.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="_v6Y9WuxQzuxe40y2wVr" version="14.6.13" type="github">
   <diagram id="ihwht_RgDGC7BpIB0vgZ" name="Page-1">
-    <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OilqJA6hoogybqTPg4Va-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;dashed=1;strokeWidth=4;fontColor=#B3B3B3;strokeColor=#B3B3B3;" parent="1" vertex="1">
-          <mxGeometry x="880" y="290" width="660" height="400" as="geometry" />
+          <mxGeometry x="880" y="290" width="660" height="470" as="geometry" />
         </mxCell>
         <mxCell id="OilqJA6hoogybqTPg4Va-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OilqJA6hoogybqTPg4Va-1" target="OilqJA6hoogybqTPg4Va-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -23,56 +23,44 @@
             <mxPoint x="2" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OilqJA6hoogybqTPg4Va-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=18;" parent="1" source="OilqJA6hoogybqTPg4Va-6" target="OilqJA6hoogybqTPg4Va-10" edge="1">
+        <mxCell id="OilqJA6hoogybqTPg4Va-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=18;" parent="1" source="OilqJA6hoogybqTPg4Va-7" target="OilqJA6hoogybqTPg4Va-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="400" />
-              <mxPoint x="360" y="400" />
-              <mxPoint x="360" y="330" />
+              <mxPoint x="180" y="540" />
+              <mxPoint x="480" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OilqJA6hoogybqTPg4Va-6" value="&lt;span&gt;处室负责人审核&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OilqJA6hoogybqTPg4Va-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OilqJA6hoogybqTPg4Va-7" target="OilqJA6hoogybqTPg4Va-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OilqJA6hoogybqTPg4Va-19" value="不同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OilqJA6hoogybqTPg4Va-18" vertex="1" connectable="0">
-          <mxGeometry x="-0.1246" y="-1" relative="1" as="geometry">
-            <mxPoint x="15" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OilqJA6hoogybqTPg4Va-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OilqJA6hoogybqTPg4Va-7" target="OilqJA6hoogybqTPg4Va-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OilqJA6hoogybqTPg4Va-22" value="同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OilqJA6hoogybqTPg4Va-21" vertex="1" connectable="0">
           <mxGeometry x="-0.2167" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OilqJA6hoogybqTPg4Va-7" value="&lt;span&gt;效能监督科审批&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OilqJA6hoogybqTPg4Va-10" value="1、新区多规平台案卷暂停计时&lt;br&gt;2、调用市多规“挂起”接口" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;size=0.07692307692307693;" parent="1" vertex="1">
-          <mxGeometry x="480" y="300" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OilqJA6hoogybqTPg4Va-17" value="1、新区多规平台案卷开始计时&lt;br&gt;2、调用市多规“解除挂起”接口" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;size=0.07692307692307693;" parent="1" vertex="1">
-          <mxGeometry x="480" y="440" width="220" height="60" as="geometry" />
+        <mxCell id="OilqJA6hoogybqTPg4Va-10" value="1、新区多规平台案卷进入缓办状态&lt;br&gt;2、调用市多规“挂起”接口" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;size=0.07692307692307693;" parent="1" vertex="1">
+          <mxGeometry x="480" y="510" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OilqJA6hoogybqTPg4Va-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="OilqJA6hoogybqTPg4Va-20" target="OilqJA6hoogybqTPg4Va-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OilqJA6hoogybqTPg4Va-27" value="&lt;span style=&quot;font-size: 12px ; text-align: left ; background-color: rgb(248 , 249 , 250)&quot;&gt;开始计时，5 个工作日后自动执行&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OilqJA6hoogybqTPg4Va-26" vertex="1" connectable="0">
           <mxGeometry x="-0.1246" y="2" relative="1" as="geometry">
-            <mxPoint x="15" y="2" as="offset" />
+            <mxPoint x="8" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OilqJA6hoogybqTPg4Va-20" value="结束" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OilqJA6hoogybqTPg4Va-25" value="1、新区多规平台案卷开始计时&lt;br&gt;2、调用市多规“解除挂起”接口" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;size=0.07692307692307693;" parent="1" vertex="1">
-          <mxGeometry x="480" y="580" width="220" height="60" as="geometry" />
+        <mxCell id="OilqJA6hoogybqTPg4Va-25" value="1、新区多规平台案卷解除缓办&lt;br&gt;2、调用市多规“解除挂起”接口" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;size=0.07692307692307693;" parent="1" vertex="1">
+          <mxGeometry x="480" y="640" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OilqJA6hoogybqTPg4Va-28" value="缓办功能调整需求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="124" y="90" width="580" height="30" as="geometry" />
@@ -80,22 +68,11 @@
         <mxCell id="OilqJA6hoogybqTPg4Va-29" value="材料补正功能调整需求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="970" y="90" width="580" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OilqJA6hoogybqTPg4Va-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;dashed=1;" parent="1" source="OilqJA6hoogybqTPg4Va-30" target="OilqJA6hoogybqTPg4Va-42" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GDCJH5cwwwnvC5ib_Jdx-5" value="点击确认后执行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OilqJA6hoogybqTPg4Va-50">
-          <mxGeometry x="-0.1793" y="-3" relative="1" as="geometry">
-            <mxPoint x="21" y="-3" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GDCJH5cwwwnvC5ib_Jdx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OilqJA6hoogybqTPg4Va-30" target="OilqJA6hoogybqTPg4Va-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OilqJA6hoogybqTPg4Va-30" value="经办人发起&lt;br&gt;选择材料补正目录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OilqJA6hoogybqTPg4Va-42" value="1、调用市多规材料补正接口" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;size=0.07692307692307693;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="210" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OilqJA6hoogybqTPg4Va-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OilqJA6hoogybqTPg4Va-54" target="OilqJA6hoogybqTPg4Va-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -105,48 +82,31 @@
             <mxPoint x="2" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OilqJA6hoogybqTPg4Va-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=18;" parent="1" source="OilqJA6hoogybqTPg4Va-54" target="OilqJA6hoogybqTPg4Va-60" edge="1">
+        <mxCell id="OilqJA6hoogybqTPg4Va-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=18;" parent="1" source="OilqJA6hoogybqTPg4Va-59" target="OilqJA6hoogybqTPg4Va-60" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="980" y="420" />
+              <mxPoint x="980" y="570" />
+              <mxPoint x="1200" y="570" />
+              <mxPoint x="1200" y="498" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GDCJH5cwwwnvC5ib_Jdx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OilqJA6hoogybqTPg4Va-54" target="GDCJH5cwwwnvC5ib_Jdx-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GDCJH5cwwwnvC5ib_Jdx-4" value="不同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GDCJH5cwwwnvC5ib_Jdx-3">
-          <mxGeometry x="-0.1333" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OilqJA6hoogybqTPg4Va-54" value="&lt;span&gt;处室负责人审核&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OilqJA6hoogybqTPg4Va-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OilqJA6hoogybqTPg4Va-59" target="OilqJA6hoogybqTPg4Va-61" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OilqJA6hoogybqTPg4Va-56" value="不同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OilqJA6hoogybqTPg4Va-55" vertex="1" connectable="0">
-          <mxGeometry x="-0.1246" y="-1" relative="1" as="geometry">
-            <mxPoint x="5" y="-1" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="OilqJA6hoogybqTPg4Va-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OilqJA6hoogybqTPg4Va-59" target="OilqJA6hoogybqTPg4Va-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OilqJA6hoogybqTPg4Va-58" value="同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OilqJA6hoogybqTPg4Va-57" vertex="1" connectable="0">
           <mxGeometry x="-0.2167" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OilqJA6hoogybqTPg4Va-59" value="&lt;span&gt;效能监督科审批&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OilqJA6hoogybqTPg4Va-60" value="1、新区多规平台案卷暂停计时&lt;br&gt;2、调用市多规“挂起”接口" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;size=0.07692307692307693;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="400" width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OilqJA6hoogybqTPg4Va-61" value="1、新区多规平台案卷开始计时&lt;br&gt;2、调用市多规“解除挂起”接口&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;3、&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;主动&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;关闭材料补正&lt;/font&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;size=0.07692307692307693;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="470" width="220" height="60" as="geometry" />
+        <mxCell id="OilqJA6hoogybqTPg4Va-60" value="1、新区多规平台案卷进入缓办状态&lt;br&gt;2、调用市多规“挂起”接口&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;3、案卷进入材料补正状态，调用材料补正接口&lt;/font&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;size=0.07692307692307693;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="465" width="240" height="65" as="geometry" />
         </mxCell>
         <mxCell id="OilqJA6hoogybqTPg4Va-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="OilqJA6hoogybqTPg4Va-64" target="OilqJA6hoogybqTPg4Va-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -159,14 +119,14 @@
         <mxCell id="OilqJA6hoogybqTPg4Va-64" value="结束" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OilqJA6hoogybqTPg4Va-65" value="1、新区多规平台案卷开始计时&lt;br&gt;2、调用市多规“解除挂起”接口&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;3、&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;主动&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;关闭材料补正&lt;/font&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;size=0.07692307692307693;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="610" width="220" height="60" as="geometry" />
+        <mxCell id="OilqJA6hoogybqTPg4Va-65" value="1、新区多规平台案卷进入缓办状态&lt;br&gt;2、调用市多规“挂起”接口" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;size=0.07692307692307693;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="610" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OilqJA6hoogybqTPg4Va-67" value="与缓办审批流程相似" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontStyle=1;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="300" width="250" height="20" as="geometry" />
+          <mxGeometry x="1090" y="300" width="270" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GDCJH5cwwwnvC5ib_Jdx-2" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;1、主动关闭材料补正&lt;/font&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;size=0.07692307692307693;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="340" width="220" height="40" as="geometry" />
+        <mxCell id="GDCJH5cwwwnvC5ib_Jdx-6" value="注：系统不自动关闭材料补正，但需提供按钮，经办人点击后主动关闭材料补正" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="670" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
