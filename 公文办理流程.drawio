@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T10:57:05.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="qH_XxEF2KW6qzKqEJDR1" version="14.7.10" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-17T11:05:26.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="PjnW8B0lBEvht0u-iMqh" version="14.7.10" type="github" pages="6">
   <diagram id="1azCIsr24dR7rAIuXTd9" name="Page-1">
     <mxGraphModel dx="7690" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -812,7 +812,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h6amD85Lw7j19dBLWmyU" name="一般收文">
-    <mxGraphModel dx="4382" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ud1XhO92HQsQE6zSRr5y-0" />
         <mxCell id="Ud1XhO92HQsQE6zSRr5y-1" parent="Ud1XhO92HQsQE6zSRr5y-0" />
@@ -1196,7 +1196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nM1rV6vPvDMCr55FOPXS" name="涉访涉诉">
-    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3197" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QNL2E1bnfBMlV952vJYP-0" />
         <mxCell id="QNL2E1bnfBMlV952vJYP-1" parent="QNL2E1bnfBMlV952vJYP-0" />
