@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T11:05:26.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="PjnW8B0lBEvht0u-iMqh" version="14.7.10" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-18T11:22:22.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="eg4VXahN-Lxc3fvphMDh" version="14.7.10" type="github" pages="7">
   <diagram id="1azCIsr24dR7rAIuXTd9" name="Page-1">
-    <mxGraphModel dx="7690" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="5557" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -343,7 +343,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k684Fg1Sx6QVNatn-BNg" name="对接流程">
-    <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="2223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Vqg6oj2Ny4uwMvTKlXjL-0" />
         <mxCell id="Vqg6oj2Ny4uwMvTKlXjL-1" parent="Vqg6oj2Ny4uwMvTKlXjL-0" />
@@ -572,7 +572,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jAaHzVEaORWOG2aE6wb9" name="Page-3">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wPZKyoB0BqvqUB1bbmP1-0" />
         <mxCell id="wPZKyoB0BqvqUB1bbmP1-1" parent="wPZKyoB0BqvqUB1bbmP1-0" />
@@ -675,7 +675,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vEuvXXjXEf5ZHjlqOR_G" name="党支部收文">
-    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="oqd7aZVV1jGXIn2vERmR-0" />
         <mxCell id="oqd7aZVV1jGXIn2vERmR-1" parent="oqd7aZVV1jGXIn2vERmR-0" />
@@ -812,7 +812,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h6amD85Lw7j19dBLWmyU" name="一般收文">
-    <mxGraphModel dx="2500" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ud1XhO92HQsQE6zSRr5y-0" />
         <mxCell id="Ud1XhO92HQsQE6zSRr5y-1" parent="Ud1XhO92HQsQE6zSRr5y-0" />
@@ -1196,7 +1196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nM1rV6vPvDMCr55FOPXS" name="涉访涉诉">
-    <mxGraphModel dx="3197" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3197" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QNL2E1bnfBMlV952vJYP-0" />
         <mxCell id="QNL2E1bnfBMlV952vJYP-1" parent="QNL2E1bnfBMlV952vJYP-0" />
@@ -1566,6 +1566,14 @@
         <mxCell id="sYiv2XhYc3dFm_aAaaAf-91" value="办理阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;fontSize=23;fontStyle=1" vertex="1" parent="QNL2E1bnfBMlV952vJYP-1">
           <mxGeometry x="1620" y="295" width="210" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="qh0MsVLCij4q-_MsIXnn" name="一般发文">
+    <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="bCGGRHf8WQcclUQgUQ3R-0" />
+        <mxCell id="bCGGRHf8WQcclUQgUQ3R-1" parent="bCGGRHf8WQcclUQgUQ3R-0" />
       </root>
     </mxGraphModel>
   </diagram>
