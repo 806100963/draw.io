@@ -1,1 +1,184 @@
-<mxfile host="app.diagrams.net" modified="2020-03-20T02:29:21.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" version="12.8.8" etag="uPsuou-Ed7c7-nIpjNRp" type="github"><diagram id="-tVjnndzAJnwI8hUAqQ2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-06T03:43:15.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="3U5CcMH8_t7qnloepbXK" version="14.8.2" type="github">
+  <diagram id="-tVjnndzAJnwI8hUAqQ2" name="Page-1">
+    <mxGraphModel dx="2370" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="244" y="760" width="190" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="244" y="540" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="244" y="80" width="190" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q5ZjHTaqZAcB1asyyRUL-1" target="q5ZjHTaqZAcB1asyyRUL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-1" value="file2：审定总图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="254" y="280" width="167" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;" edge="1" parent="1" source="q5ZjHTaqZAcB1asyyRUL-13" target="q5ZjHTaqZAcB1asyyRUL-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-2" value="file4：审定总图【已盖章】" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="254" y="620" width="167" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-3" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="80" width="320" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q5ZjHTaqZAcB1asyyRUL-5" target="q5ZjHTaqZAcB1asyyRUL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-5" value="file1：总图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="254" y="160" width="167" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q5ZjHTaqZAcB1asyyRUL-6" target="q5ZjHTaqZAcB1asyyRUL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-6" value="file3：审定总图【已盖章】" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="254" y="400" width="167" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-8" value="资料提取" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-10" value="PDF在线盖章" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-11" value="file3 的 fileGuid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-14" value="file4 的 fileGuid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="674" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-15" value="file1 的 fileGuid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-16" value="file2 的 fileGuid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="674" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-17" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q5ZjHTaqZAcB1asyyRUL-15" target="q5ZjHTaqZAcB1asyyRUL-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="604" y="290" as="sourcePoint" />
+            <mxPoint x="654" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-18" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="q5ZjHTaqZAcB1asyyRUL-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="594" y="500" as="sourcePoint" />
+            <mxPoint x="654" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-21" value="新区多规" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="261" y="100" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-22" value="市多规" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="261" y="560" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-24" value="新区多规" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="251" y="780" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q5ZjHTaqZAcB1asyyRUL-25" target="q5ZjHTaqZAcB1asyyRUL-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-25" value="file5：审定总图【已盖章】" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="254" y="820" width="167" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-13" value="网厅材料下载接口" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;" edge="1" parent="1" source="q5ZjHTaqZAcB1asyyRUL-2" target="q5ZjHTaqZAcB1asyyRUL-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="341" y="660" as="sourcePoint" />
+            <mxPoint x="341" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-28" value="调用已批材料" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-29" value="file4 的 fileGuid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="700" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-30" value="file5 的 fileGuid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="674" y="700" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-31" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q5ZjHTaqZAcB1asyyRUL-29" target="q5ZjHTaqZAcB1asyyRUL-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="604" y="730" as="sourcePoint" />
+            <mxPoint x="654" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-32" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="q5ZjHTaqZAcB1asyyRUL-29" target="q5ZjHTaqZAcB1asyyRUL-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="610" as="sourcePoint" />
+            <mxPoint x="734" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-33" value="file6：审定总图【已盖章】" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="254" y="940" width="167" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-35" value="资料提取" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-36" value="file5 的 fileGuid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="880" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-37" value="file6 的 fileGuid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="674" y="880" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-38" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="q5ZjHTaqZAcB1asyyRUL-36" target="q5ZjHTaqZAcB1asyyRUL-37" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="604" y="910" as="sourcePoint" />
+            <mxPoint x="654" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-39" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="q5ZjHTaqZAcB1asyyRUL-36" target="q5ZjHTaqZAcB1asyyRUL-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="554" y="890" as="sourcePoint" />
+            <mxPoint x="734" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-40" value="数据表：tbDockingServiceMaterialBinding&lt;br&gt;用于记录材料调取关系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="494" y="100" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-45" value="规划总平面图" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="34" y="150" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-46" value="规划总平面图（审定-需盖章）" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="34" y="260" width="170" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-47" value="变更前材料文件" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="34" y="610" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-48" value="变更前材料文件" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="34" y="810" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-50" value="变更前材料文件（审批&lt;br&gt;通过后即作废）" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="34" y="930" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-52" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="q5ZjHTaqZAcB1asyyRUL-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119" y="1060" as="sourcePoint" />
+            <mxPoint x="134" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-53" value="办结时，系统会扫描该文件夹下的所有文件，通过&lt;span style=&quot;text-align: center&quot;&gt;tbDockingServiceMaterialBinding表找到原始的审定成果，即通过 file6 找到 file3 进行作废&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="41" y="1060" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-55" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="200" as="sourcePoint" />
+            <mxPoint x="220" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-56" value="目录名称" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q5ZjHTaqZAcB1asyyRUL-58" value="文件名称" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="60" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
