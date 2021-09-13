@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T14:36:15.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="VMYTtrl4HNBNHi3Ic8NW" version="15.2.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-13T16:04:34.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="beN-h0SkQpB3egFxiR8Y" version="15.2.1" type="github" pages="4">
   <diagram id="x7S5RqhdeE9kZd9EBZzt" name="总体对接流程">
-    <mxGraphModel dx="1673" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,7 +363,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TxsZGlCmDI8ykL7qB8qx" name="公文模块对接1">
-    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ChiOq36YfbbvEDcIoUu9-0" />
         <mxCell id="ChiOq36YfbbvEDcIoUu9-1" parent="ChiOq36YfbbvEDcIoUu9-0" />
@@ -526,7 +526,7 @@
         <mxCell id="UUcnmLmqdDMZmVh0eJ3J-30" value="对接程序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="ChiOq36YfbbvEDcIoUu9-1">
           <mxGeometry x="240" y="40" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UUcnmLmqdDMZmVh0eJ3J-31" value="&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify ; line-height: 100% ; font-size: 12px&quot;&gt;接口程序自动批转&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;align=center;spacing=0;" vertex="1" parent="ChiOq36YfbbvEDcIoUu9-1">
+        <mxCell id="UUcnmLmqdDMZmVh0eJ3J-31" value="&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify ; line-height: 100% ; font-size: 12px&quot;&gt;对接程序自动批转&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;align=center;spacing=0;" vertex="1" parent="ChiOq36YfbbvEDcIoUu9-1">
           <mxGeometry x="520" y="520" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
@@ -648,6 +648,171 @@
       <root>
         <mxCell id="VLvOliyAcaUY3wt5IQ_g-0" />
         <mxCell id="VLvOliyAcaUY3wt5IQ_g-1" parent="VLvOliyAcaUY3wt5IQ_g-0" />
+        <mxCell id="ZMUo_xjscFQTFKn-4mEb-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="80" y="40" width="640" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMUo_xjscFQTFKn-4mEb-12" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="880" as="sourcePoint" />
+            <mxPoint x="520" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gC_sapddEmBo1kB12ZfU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1" source="VLvOliyAcaUY3wt5IQ_g-2" target="gC_sapddEmBo1kB12ZfU-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VLvOliyAcaUY3wt5IQ_g-2" value="开始" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gC_sapddEmBo1kB12ZfU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1" source="gC_sapddEmBo1kB12ZfU-0" target="gC_sapddEmBo1kB12ZfU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gC_sapddEmBo1kB12ZfU-0" value="管委会会议管理员&lt;br&gt;登记会议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="560" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SDV90W5Z7zb3SLcFRIT9-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1" source="gC_sapddEmBo1kB12ZfU-2" target="SDV90W5Z7zb3SLcFRIT9-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gC_sapddEmBo1kB12ZfU-2" value="若需通知国土规划局人员参会或者上报议题，则将会议发送至“国土规划局账户”" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="560" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sgl6z1521Gj9Bu-MzgRr-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1" source="SDV90W5Z7zb3SLcFRIT9-0" target="J9pRv4rEIVhSvItdl47j-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="470" />
+              <mxPoint x="550" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnrwyT3Nnd71Qu6Fs4bc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1" source="SDV90W5Z7zb3SLcFRIT9-0" target="OnrwyT3Nnd71Qu6Fs4bc-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="500" />
+              <mxPoint x="530" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnrwyT3Nnd71Qu6Fs4bc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1" source="SDV90W5Z7zb3SLcFRIT9-0" target="-TmeTbbsaETca1OQykqg-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OnrwyT3Nnd71Qu6Fs4bc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1" source="SDV90W5Z7zb3SLcFRIT9-0" target="OnrwyT3Nnd71Qu6Fs4bc-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SDV90W5Z7zb3SLcFRIT9-0" value="国土规划局账户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="560" y="440" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Sgl6z1521Gj9Bu-MzgRr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1" source="J9pRv4rEIVhSvItdl47j-0" target="Sgl6z1521Gj9Bu-MzgRr-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="190" />
+              <mxPoint x="300" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9pRv4rEIVhSvItdl47j-0" value="定期轮询，将中软OA平台“国土规划局”账户下所有的待办会议列表同步至新区多规合一平台“委办会议箱”；同时，需检查中软OA平台中会议的状态是否发生改变，若发生改变，则需同步更改新区多规合一平台“委办会议箱”中会议的状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="320" y="120" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OnrwyT3Nnd71Qu6Fs4bc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1" source="Sgl6z1521Gj9Bu-MzgRr-1" target="h0yD8nGpkPzg9xu9QnWy-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sgl6z1521Gj9Bu-MzgRr-1" value="委办会议箱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="120" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mrVCusRNhCHHF4nSeaU--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;dashed=1;startArrow=none;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1" source="_W9cgBBmdiTsKepkkOBd-0" target="mrVCusRNhCHHF4nSeaU--0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OnrwyT3Nnd71Qu6Fs4bc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1" source="-TmeTbbsaETca1OQykqg-0" target="mrVCusRNhCHHF4nSeaU--0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-TmeTbbsaETca1OQykqg-0" value="定期轮询中软OA平台“国土规划局”账户下所有的待办会议&lt;br&gt;，若&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;会议方案已确定&lt;/font&gt;&lt;/b&gt;，则自动将中软OA平台中已确定的会议信息同步至新区多规合一平台中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="320" y="500" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LU3jNbI2C8w8rikfsCik-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1" source="mrVCusRNhCHHF4nSeaU--0" target="LU3jNbI2C8w8rikfsCik-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mrVCusRNhCHHF4nSeaU--0" value="启动新区多规合一&lt;br&gt;平台&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;会议登记&lt;/font&gt;&lt;/b&gt;流程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="120" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OnrwyT3Nnd71Qu6Fs4bc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1" source="LU3jNbI2C8w8rikfsCik-0" target="OnrwyT3Nnd71Qu6Fs4bc-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LU3jNbI2C8w8rikfsCik-0" value="新区多规合一平台&lt;br&gt;会议登记" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="120" y="630" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OnrwyT3Nnd71Qu6Fs4bc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1" source="h0yD8nGpkPzg9xu9QnWy-1" target="OnrwyT3Nnd71Qu6Fs4bc-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="310" />
+              <mxPoint x="260" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h0yD8nGpkPzg9xu9QnWy-1" value="&lt;span&gt;国土规划局综合处会议管理员可从&lt;/span&gt;“委办会议箱”中&lt;span&gt;点击查看会议的详情，若需上报参会人员或者议题，则需会议管理人员采集完相应信息后，点击&lt;/span&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;【提交（中软）】&lt;/font&gt;&lt;/b&gt;&lt;span&gt;按钮&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="120" y="240" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OnrwyT3Nnd71Qu6Fs4bc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.986;entryY=0.146;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1" source="OnrwyT3Nnd71Qu6Fs4bc-0" target="h0yD8nGpkPzg9xu9QnWy-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="320" />
+              <mxPoint x="300" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnrwyT3Nnd71Qu6Fs4bc-0" value="调用接口查看会议详情" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="320" y="300" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OnrwyT3Nnd71Qu6Fs4bc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1" source="OnrwyT3Nnd71Qu6Fs4bc-3" target="SDV90W5Z7zb3SLcFRIT9-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="400" />
+              <mxPoint x="510" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnrwyT3Nnd71Qu6Fs4bc-3" value="调用接口提交会议议题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="320" y="380" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OnrwyT3Nnd71Qu6Fs4bc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1" source="OnrwyT3Nnd71Qu6Fs4bc-14" target="OnrwyT3Nnd71Qu6Fs4bc-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OnrwyT3Nnd71Qu6Fs4bc-14" value="后续办会流程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="120" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OnrwyT3Nnd71Qu6Fs4bc-16" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="120" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OnrwyT3Nnd71Qu6Fs4bc-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" source="OnrwyT3Nnd71Qu6Fs4bc-24" target="OnrwyT3Nnd71Qu6Fs4bc-25" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OnrwyT3Nnd71Qu6Fs4bc-24" value="后续办会流程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="560" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OnrwyT3Nnd71Qu6Fs4bc-25" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="560" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_W9cgBBmdiTsKepkkOBd-0" value="&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify ; line-height: 100% ; font-size: 12px&quot;&gt;对接程序自动登记&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;align=center;spacing=0;" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="120" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_W9cgBBmdiTsKepkkOBd-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;dashed=1;endArrow=none;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1" source="h0yD8nGpkPzg9xu9QnWy-1" target="_W9cgBBmdiTsKepkkOBd-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="380" as="sourcePoint" />
+            <mxPoint x="180" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZMUo_xjscFQTFKn-4mEb-11" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VLvOliyAcaUY3wt5IQ_g-1" target="ZMUo_xjscFQTFKn-4mEb-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="880" as="sourcePoint" />
+            <mxPoint x="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZMUo_xjscFQTFKn-4mEb-13" value="新区多规合一平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="80" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMUo_xjscFQTFKn-4mEb-14" value="中软OA平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="520" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMUo_xjscFQTFKn-4mEb-15" value="对接程序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="VLvOliyAcaUY3wt5IQ_g-1">
+          <mxGeometry x="280" y="40" width="240" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
