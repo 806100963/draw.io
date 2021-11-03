@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T12:32:58.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="JS8h_t2Vl9LarzVYev6_" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T12:52:44.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="RaArCiYla79QmU57QKu0" version="15.6.6" type="github">
   <diagram id="HU3_-8M6IqhSkoxiqSs4" name="Page-1">
     <mxGraphModel dx="2500" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="n4JV1IkBggr-FbLEgCfJ-66" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=5;rounded=0;fontSize=16;fontColor=default;strokeColor=default;labelBackgroundColor=default;startArrow=none;" edge="1" parent="1" source="n4JV1IkBggr-FbLEgCfJ-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="200" as="sourcePoint" />
-            <mxPoint x="540" y="-1160" as="targetPoint" />
+            <mxPoint x="540" y="-1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n4JV1IkBggr-FbLEgCfJ-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=6;fontColor=default;" vertex="1" parent="1">
@@ -276,7 +276,7 @@
         </mxCell>
         <mxCell id="n4JV1IkBggr-FbLEgCfJ-172" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=5;rounded=0;fontSize=16;fontColor=default;strokeColor=default;labelBackgroundColor=default;" edge="1" parent="1" target="n4JV1IkBggr-FbLEgCfJ-171">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="1680" as="sourcePoint" />
+            <mxPoint x="540" y="1650" as="sourcePoint" />
             <mxPoint x="540" y="-580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -284,19 +284,19 @@
           <mxGeometry x="360" y="840" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n4JV1IkBggr-FbLEgCfJ-167" value="调取多规系统&lt;br&gt;内的审定成果" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;strokeColor=#b85450;fillColor=#f8cecc;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="455" y="820" width="170" height="100" as="geometry" />
+          <mxGeometry x="460" y="820" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="n4JV1IkBggr-FbLEgCfJ-175" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;strokeColor=#b85450;fillColor=#f8cecc;arrowWidth=0.5333333333333333;arrowSize=0.11944444444444445;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="360" y="1140" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n4JV1IkBggr-FbLEgCfJ-171" value="调取多测系统&lt;br&gt;内的审定成果" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;strokeColor=#b85450;fillColor=#f8cecc;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1120" width="200" height="100" as="geometry" />
+          <mxGeometry x="460" y="1120" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="n4JV1IkBggr-FbLEgCfJ-184" value="1、&lt;font color=&quot;#ff3333&quot;&gt;经办人整理出窗成果&lt;/font&gt;时，需在《建设项目测绘通知单》中明确方案审查通过的，并且可用于放线定位的总图及单体图的水印编号；&lt;br&gt;&lt;br style=&quot;font-size: 21px&quot;&gt;2、&lt;font&gt;&lt;font color=&quot;#ff3333&quot;&gt;建设单位报建员在申报下阶段事项&lt;/font&gt;时，&lt;/font&gt;自行从网厅下载和上传办理测绘事项所需要的材料；&lt;br&gt;&lt;br style=&quot;font-size: 21px&quot;&gt;3、&lt;font color=&quot;#ff3333&quot;&gt;测绘单位在进行测绘&lt;/font&gt;时，需核对建设单位提交的报建图上的水印编号是否与《建设项目测绘通知单》中的一致；同时，在出具《测绘成果报告》时，需明确测绘工作所依据的报建图的水印编号。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=21;fontColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="600" y="-120" width="520" height="320" as="geometry" />
+        <mxCell id="n4JV1IkBggr-FbLEgCfJ-184" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1、&lt;font&gt;经办人整理出窗成果&lt;/font&gt;时，需在《建设项目测绘通知单》中明确方案审查通过的，并且可用于放线定位的总图及单体图的水印编号；&lt;br&gt;&lt;br style=&quot;font-size: 21px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2、&lt;font&gt;&lt;font&gt;建设单位报建员在申报下阶段事项&lt;/font&gt;时，&lt;/font&gt;自行从网厅下载和上传办理测绘事项所需要的材料；&lt;br&gt;&lt;br style=&quot;font-size: 21px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3、&lt;font&gt;测绘单位在进行测绘&lt;/font&gt;时，需核对建设单位提交的报建图上的水印编号是否与《建设项目测绘通知单》中的一致；同时，在出具《测绘成果报告》时，需明确测绘工作所依据的报建图的水印编号。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=21;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="600" y="-160" width="480" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="n4JV1IkBggr-FbLEgCfJ-185" value="1、&lt;font&gt;经办人整理出窗成果&lt;/font&gt;时，需在《建设项目测绘通知单》中明确方案审查通过的，并且可用于放线定位的总图及单体图的水印编号；&lt;br&gt;&lt;br style=&quot;font-size: 21px&quot;&gt;2、&lt;font&gt;&lt;font&gt;建设单位报建员在申报下阶段事项&lt;/font&gt;时，&lt;/font&gt;自行从网厅下载和上传办理测绘事项所需要的材料；&lt;br&gt;&lt;br style=&quot;font-size: 21px&quot;&gt;3、&lt;font&gt;测绘单位在进行测绘&lt;/font&gt;时，需核对建设单位提交的报建图上的水印编号是否与《建设项目测绘通知单》中的一致；同时，在出具《测绘成果报告》时，需明确测绘工作所依据的报建图的水印编号。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=21;fontColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="600" y="1320" width="520" height="320" as="geometry" />
+        <mxCell id="n4JV1IkBggr-FbLEgCfJ-185" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1、&lt;font&gt;经办人整理出窗成果&lt;/font&gt;时，需在《建设项目测绘通知单》中明确方案审查通过的，并且可用于放线定位的总图及单体图的水印编号；&lt;br&gt;&lt;br style=&quot;font-size: 21px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2、&lt;font&gt;&lt;font&gt;建设单位报建员在多测平台中申报测绘事项时，可以调取多规平台中方案审查案卷的成果；在多规平台申报工规证事项时，可调取多测平台中的测绘成果材料；&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;br style=&quot;font-size: 21px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3、&lt;font&gt;测绘单位在进行测绘&lt;/font&gt;时，需核对建设单位提交的报建图上的水印编号是否与《建设项目测绘通知单》中的一致；同时，在出具《测绘成果报告》时，需明确测绘工作所依据的报建图的水印编号。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=21;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="590" y="1290" width="480" height="360" as="geometry" />
         </mxCell>
         <mxCell id="n4JV1IkBggr-FbLEgCfJ-186" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontSize=21;fontColor=default;strokeColor=default;fillColor=default;align=left;size=0.5;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="-120" y="-1020" width="80" height="1220" as="geometry" />
