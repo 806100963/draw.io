@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T12:22:15.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="zX0Brqa7mWrC4bgfIiIv" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T12:30:30.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="c23u-iurYd_4qzVKbhuB" version="15.6.6" type="github">
   <diagram id="HU3_-8M6IqhSkoxiqSs4" name="Page-1">
-    <mxGraphModel dx="2012" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,7 +270,7 @@
         </mxCell>
         <mxCell id="n4JV1IkBggr-FbLEgCfJ-164" value="" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=default;fontSize=22;fontColor=default;strokeColor=default;strokeWidth=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-200" y="280" as="sourcePoint" />
+            <mxPoint x="-330" y="280" as="sourcePoint" />
             <mxPoint x="1160" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -297,6 +297,18 @@
         </mxCell>
         <mxCell id="n4JV1IkBggr-FbLEgCfJ-185" value="1、&lt;font&gt;经办人整理出窗成果&lt;/font&gt;时，需在《建设项目测绘通知单》中明确方案审查通过的，并且可用于放线定位的总图及单体图的水印编号；&lt;br&gt;&lt;br style=&quot;font-size: 21px&quot;&gt;2、&lt;font&gt;&lt;font&gt;建设单位报建员在申报下阶段事项&lt;/font&gt;时，&lt;/font&gt;自行从网厅下载和上传办理测绘事项所需要的材料；&lt;br&gt;&lt;br style=&quot;font-size: 21px&quot;&gt;3、&lt;font&gt;测绘单位在进行测绘&lt;/font&gt;时，需核对建设单位提交的报建图上的水印编号是否与《建设项目测绘通知单》中的一致；同时，在出具《测绘成果报告》时，需明确测绘工作所依据的报建图的水印编号。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=21;fontColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="600" y="1320" width="520" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="n4JV1IkBggr-FbLEgCfJ-186" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontSize=21;fontColor=default;strokeColor=default;fillColor=default;align=left;size=0.5;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-1020" width="80" height="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="n4JV1IkBggr-FbLEgCfJ-188" value="系统完成对接前" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-430" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n4JV1IkBggr-FbLEgCfJ-189" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontSize=21;fontColor=default;strokeColor=default;fillColor=default;align=left;size=0.5;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="420" width="80" height="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="n4JV1IkBggr-FbLEgCfJ-190" value="系统完成对接后" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-320" y="1010" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
